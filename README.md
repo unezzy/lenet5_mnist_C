@@ -5,10 +5,10 @@
 - Converted from Tensorflow LeNet-5 Model
 
 # HOW TO RUN 
-Windows: 
+- Windows: 
 1) Just add on Visual Studio
 2) run
 
-Linux: 
+- Linux: 
 1) g++ *.cpp *.h -o lenet
 2) ./lenet
