@@ -3,7 +3,7 @@
 # Implemented with C++
 # Converted from Tensorflow LeNet-5 Model
 
-# HOW TO RUN
+# HOW TO RUN 
 Windows: Just add on Visual Studio & run
 Linux: 
 1) g++ *.cpp *.h -o lenet
