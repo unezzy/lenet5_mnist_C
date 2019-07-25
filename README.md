@@ -1,8 +1,8 @@
 # SPEC
-Model: LeNet-5
-Dataset: MNIST
-Implemented with C++
-Converted from Tensorflow LeNet-5 Model
+- Model: LeNet-5
+- Dataset: MNIST
+- Implemented with C++
+- Converted from Tensorflow LeNet-5 Model
 
 # HOW TO RUN 
 Windows: 
